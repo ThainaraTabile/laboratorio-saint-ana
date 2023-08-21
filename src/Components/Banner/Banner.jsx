@@ -1,7 +1,12 @@
+import Carousel from "./Carousel";
+
 
 function Banner() {
     return (
-      <p>Banner</p>
+     
+      <>
+      <Carousel/>
+      </>
     )
   }
   
